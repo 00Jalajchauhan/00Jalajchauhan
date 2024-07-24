@@ -1,0 +1,443 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  .box {
+    display: flex;
+  }
+  
+  .box ul {
+    background-color: white;
+    overflow: auto;
+    margin-left: 45%;
+  }
+  .box ul li {
+    float: left;
+    list-style: none;
+    margin: 35px 20px;
+    position: relative;
+  }
+  .box ul li a {
+    text-decoration: none;
+    color: black;
+  }
+  .btn {
+    float: right;
+    margin: 30px;
+    margin-top: 15px;
+  }
+  button {
+    padding: 17px;
+    background-color: #ff8000;
+    color: white;
+    border: none;
+    font-size: 17px;
+    border-radius: 5px;
+    margin: -5px;
+    cursor: pointer;
+  }
+  .logo {
+    padding-left: 50px;
+    padding-top: 10px;
+  }
+  .box2 {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: black;
+    color: white;
+  }
+  .box3 {
+    display: flex;
+  }
+  .box3 img {
+    width: 33%;
+  }
+  .box4:hover .box5 {
+    display: block;
+  }
+  .box4 {
+    background-image: url("	https://omninos.shop/lifeManaged/sliderimg2.png");
+    background-size: cover;
+    width: 33%;
+    height: 617px;
+  }
+   .box5 h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+  }
+  .box5 {
+    height: 617px;
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    display: none;
+  }
+  .box5 button {
+    margin-left: 110px;
+    margin-top: 20px;
+  }
+  .box6 {
+    background-image: url("	https://omninos.shop/lifeManaged/sliderimg3.png");
+    width: 33%;
+    height: 617px;
+    background-size: cover;
+  }.box7 h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+  }
+  .box7 {
+    height: 617px;
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    display: none;
+  }
+  .box6:hover .box7 {
+    display: block;
+  }
+  .box7 button {
+    margin-left: 120px;
+    margin-top: 20px;
+  }
+  .box8 h1 {
+    font-size: 100px;
+    text-align: center;
+    color: black;
+  }
+  .box9 {
+    width: 100%;
+    display: flex;
+    padding-top: 5%;
+  }
+  .box99 {
+    width: 25%;
+    padding-left: 9%;
+  }
+  .box99 p {
+    font-size: 26px;
+    margin-left: -90px;
+    padding-top: 20px;
+    text-align: center;
+  }
+  .box999 {
+    width: 25%;
+    padding-left: 9%;
+    
+  }
+  .box999 p {
+    font-size: 26px;
+    margin-left: -90px;
+    padding-top: 20px;
+    text-align: center;
+  }
+  .box9999 {
+    width: 25%;
+    padding-left: 9%;
+  }
+  .box9999 p {
+    font-size: 26px;
+    margin-left: -90px;
+    padding-top: 30px;
+    text-align: center;
+  }
+  .box99999 {
+    width: 25%;
+    padding-left: 9%;
+  }
+  .box99999 p {
+    font-size: 26px;
+    margin-left: -90px;
+    padding-top: 20px;
+    text-align: center;
+  }
+  .box10 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+  }
+  .box10 button {
+    padding: 20px 80px;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  .box11 {
+    background-color: #56c8e2;
+    margin-top: 80px;
+    display: flex;
+    height: 800px;
+  }
+  .boox1 {
+    padding-top: 100px;
+    padding-left: 90px;
+    width: 80%;
+  }
+  .boox1 h1 {
+    font-size: 50px;
+    color: white;
+  }
+  .boox1 p {
+    padding-left: 0px;
+    font-size: 40px;
+    color: white;
+  }
+  .boox1 button {
+    padding: 20px 60px;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-size: 30px;
+  }
+  .boox2 {
+    display: flex;
+  }
+  .boox2 img {
+    padding-top: 100px;
+    padding-left: 50px;
+    height: 100px;
+    width: 100px;
+  }
+  .heading h1 {
+    color: white;
+    padding: 100px 0px 0px 50px;
+    font-size: 30px;
+    width:20%;
+  }
+  .heading p {
+    color: white;
+    padding: 10px 200px 0px 50px;
+    font-size: 18px;
+    line-height: 1.9em;
+  }
+  
+  .boox3 img {
+    padding-top: 70px;
+    padding-left: 0px;
+    height: 100px;
+    width: 100px;
+    margin-left: -95px;
+  }
+  .heading2 {
+    margin-top: -200px;
+  }
+  .heading3 {
+    margin-top: -200px;
+  }
+  .box12 {
+    background-image: url("https://omninos.shop/lifeManaged/bg.png");
+    height: 430px;
+    width: 100%;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .financial{
+    width:100%;
+    height: 500px;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+  }
+  .financial h1{
+    color:black;
+
+  }
+
+  .financial p{
+      color: #ff8000;
+      text-align: center;
+      font-size: 25px;
+      padding-top: 20px;
+   
+      font-weight: 800;
+      letter-spacing: 0.04em;
+  }
+  .bg2{
+      background-image: url("https://omninos.shop/lifeManaged/bg2.png ");
+      height: 803px;
+  }
+   h1{
+      text-align: center;
+      color: white;
+      padding: 40px 0px 30px 0px;
+      font-size: 80px;
+  }
+  .bg2 p{
+      text-align: center;
+      color: white;
+      font-size: 30px;
+  }
+  .main3{
+      display: flex;
+  }
+  .worked{
+      width: 33.33%;
+      
+      height: 400px;
+      margin-top: 20px;
+  
+  }
+  
+  .worked img{
+      height: 200px;
+      width: 200px;
+      padding-left: 100px;
+      padding-top: 20px;
+  }
+  .worked h2{
+      color: white;
+      padding: 5px 10px 10px 100px;
+  }
+  .worked p{
+      padding: 0px 100px 10px 120px;
+      font-size: 20px;
+  }
+  .btn-2{
+      background-color: orange;
+      border: 1px solid white;
+      font-size: 20px;
+      
+  }
+  button.btn-2 {
+      margin: 20px;
+      padding: 20px 40px;
+      background-color: orange;
+      border: 1px solid white;
+  }
+  
+  .worked:hover{
+      background-color:orange;
+      border: 1px solid white;
+      border-radius: 5px;
+  }
+  .workedd img{
+      height: 200px;
+      width: 200px;
+      padding-left: 100px;
+      padding-top: 20px;
+  }
+  .workedd{
+      width: 25%;
+      margin-top: 20px;
+      margin-left: 130px;
+  }
+  .workedd h2{
+      color: white;
+      padding: 5px 30px 10px 150px;
+  }
+  .workedd p{
+      padding: 0px 100px 10px 120px;
+      font-size: 20px;
+  }
+  button.btn-3 {
+      margin: 20px;
+      padding: 20px 40px;
+      border: 1px solid white;
+      background-color: orange;
+  }
+  .workedd:hover{
+      background-color:orange;
+      
+      border: 1px solid white;
+      border-radius: 5px;
+  }
+  
+  .worked{
+      width: 25%;
+      
+      height: 570px;
+      margin-top: 20px;
+      margin-left: 50px;
+      
+  }
+  .workeddd{
+      margin-top: 20px;
+      width: 25%;
+      margin-left: 150px;
+  }
+  .workeddd img{
+      margin-top: 20px;
+      padding-left: 100px;
+  
+  }
+  .workeddd h2{
+      color: white;
+      padding-left: 140px;
+      margin-top: 10px;
+  }
+  .workeddd p{
+      font-size: 20px;
+      padding: 20px 100px 10px 120px;
+  }
+  .workeddd:hover{
+      background-color: orange;
+      border: 1px solid white;
+      border-radius: 5px;
+  }
+  .bottom{
+    background-color: #171717;
+    width: 100%;
+    display: flex;
+    height: 400px;
+  }
+  .b1{
+    width: 33.33%;
+  }
+  .b1 h1{
+    width:70%;
+    color: #ff8000;
+    font-size: 20px;
+  
+  }
+  .b1 p{
+    color: white;
+    padding-left: 33px;
+  
+  }
+  .b2{
+    width: 33.33%;
+  }
+  .b2 h1{
+    color: #ff8000;
+    font-size: 20px;
+    width:118%;
+    
+  
+  }
+  .b2 ul li{
+    list-style: none;
+    padding-left: 210px;
+    padding-top: 10px;
+    
+  }
+  .b2 ul li a{
+    color: white;
+    text-decoration: none;
+  }
+  .b3{
+    width: 33.33%;
+  
+  }
+  .b3 h1{
+    color: #ff8000;
+    font-size: 20px;
+    width:97%;
+  
+  }
+  .b3 p{
+    padding-top: 10px;
+    padding-left: 150px;
+    color: white;
+    line-height: 1.8em;
+  
+  }
+  .b3 p a{
+    text-decoration: none;
+    color: #ff8000;
+  }
+  
